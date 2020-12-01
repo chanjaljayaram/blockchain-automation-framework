@@ -39,7 +39,7 @@ spec:
           clusteripport: 7050
 
     vault:
-      address: http://23.102.129.48:8200
+      address: http://13.84.240.61:8200
       role: vault-role
       authpath: supplychain-net-auth
       secretprefix: secret/crypto/ordererOrganizations/supplychain-net/orderers/orderer3.supplychain-net

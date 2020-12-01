@@ -40,7 +40,7 @@ spec:
 
     vault:
       role: vault-role
-      address: http://23.102.129.48:8200
+      address: http://13.84.240.61:8200
       authpath: carrier-net-auth
       secretprefix: secret/crypto/peerOrganizations/carrier-net/peers/peer0.carrier-net
       secretambassador: secret/crypto/peerOrganizations/carrier-net/ambassador
